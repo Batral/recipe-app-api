@@ -3,8 +3,8 @@
     "",
     "\\.github",
     "\\.github\\workflows",
+    "\\app",
     "\\app\\app"
   ],
-  "SelectedNode": "\\.github\\workflows\\checks.yml",
   "PreviewInSolutionExplorer": false
 }
